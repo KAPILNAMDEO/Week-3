@@ -1,0 +1,4 @@
+Hello, world!
+This is a simple text file.
+It can contain multiple lines of text.
+Each line can contain any content such as words or numbers.
