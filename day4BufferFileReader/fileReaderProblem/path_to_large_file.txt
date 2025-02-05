@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file for performance testing.
+Binary search is an efficient algorithm for searching in sorted arrays.
+Data structures and algorithms are the foundation of computer science.
