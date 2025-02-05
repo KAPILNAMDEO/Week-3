@@ -1,0 +1,3 @@
+java is a object oriented programming lanaguage.
+java contains jvm, jre and jdk
+java is a most popular programming langaugge.
